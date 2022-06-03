@@ -1,6 +1,8 @@
 ### Hi there, this is henryhuanghenry. 👋
+<a href="https://github.com/henryhuanghenry">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=henryhuanghenry&show_icons=true&theme=gotham"alt="henryhuanghenry" />
+</a>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=henryhuanghenry&show_icons=true&theme=gotham" href= https://github.com/henryhuanghenry alt="henryhuanghenry" />
 
 - Interested in time series forecasting and natural language processing. 
 - Familiar with: C/C++, Python, Verilog HDL. 
