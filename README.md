@@ -9,7 +9,9 @@
 - A fan of [vuepress@next, i.e., vuepressV2](https://github.com/vuepress/vuepress-next)
 
 
-<img align="right" width="50%" src="https://stats.justsong.cn/api/zhihu?username=mr-henryhuang&theme=dark" style="box-shadow:none !important" width="50%"/>
+<a href="https://www.zhihu.com/people/mr-henryhuang">
+  <img align="right" width="50%" src="https://stats.justsong.cn/api/zhihu?username=mr-henryhuang&theme=dark" style="box-shadow:none !important" width="50%"/>
+</a>
 
   
  <!--![](https://github-readme-stats.vercel.app/api?username=henryhuanghenry)-->
