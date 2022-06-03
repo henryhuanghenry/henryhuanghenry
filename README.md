@@ -1,5 +1,4 @@
 ### Hi there, this is henryhuanghenry. 👋
---
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=henryhuanghenry&show_icons=true&theme=gotham" alt="henryhuanghenry" />
 
