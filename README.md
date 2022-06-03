@@ -8,7 +8,7 @@
 - A fan of [vuepress@next, i.e., vuepressV2](https://github.com/vuepress/vuepress-next)
 
 
-<img src="https://stats.justsong.cn/api/zhihu?username=Mr.HenryHuang&theme=dark"  style="box-shadow:none !important" width="50%"/>
+<img align="right" width="50%" src="https://stats.justsong.cn/api/zhihu?username=mr-henryhuang&theme=dark" style="box-shadow:none !important" width="50%"/>
 
   
  <!--![](https://github-readme-stats.vercel.app/api?username=henryhuanghenry)-->
